@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKomponent1%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 모든 개발은 [Komponent Oranigation](https://github.com/Komponent1)애서 작업합니다!
+# 모든 개발은 [Komponent Organization](https://github.com/Komponent1)애서 작업합니다!
 
 Komponent1는 seolim의 개발 레포지토리입니다. 주로 웹 어플리케이션을 개발합니다.
 
